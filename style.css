@@ -1,0 +1,49 @@
+#start-button
+{
+    width: 20%;
+    height: 40px;
+} 
+#camera_view,#result,#result2,#result3,#result4
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#text_box
+{
+    width: 300px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color:black;
+    font-size: 20px;
+    color: white;
+}
+body{
+    background-color:silver;
+}
+h1{
+    font-style: italic;
+    font-weight: bolder;
+
+}
+#camera_view{
+    width: 500px;
+    height: 400px;
+    border-color: bisque;
+}
+
+img{
+    box-shadow: 0 6px 8px 0 rgb(2,2,2,0.2);
+}
+img:hover{
+    border-radius: 140px;
+}
